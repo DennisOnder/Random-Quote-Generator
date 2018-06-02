@@ -17,10 +17,10 @@ body {
     font-size: 28px;
     text-decoration: underline;
     font-family: 'Raleway', Arial, Helvetica, sans-serif;
-    transition: .3s;
 }
 
 #generate {
+    transition: .5s;
     display: block;
     margin: 100px auto 0 auto;
     width: 500px;
